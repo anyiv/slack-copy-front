@@ -3,7 +3,7 @@
         <template #brand>
             <b-navbar-item >
                 <img class="sizes"
-                    src="/logo.png"
+                    src="https://i.imgur.com/HJMecvu.png"
                     alt="Some logo i guess"
                 >
             </b-navbar-item>
@@ -68,8 +68,8 @@ export default {
     color: #fefefe;
 }
 .sizes{
-    height: 40px;
-    width: 40px;
+    height: 150px;
+    width: 150px;
 }
 .color{
   background-color: #F9F0FA;
