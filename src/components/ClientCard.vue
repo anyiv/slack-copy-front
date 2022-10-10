@@ -1,5 +1,5 @@
 <template>
-    <div class="card prueba">
+    <div class="card transparent">
     <div class="card-image">
         <figure class="image is-4by3">
         <img :src='url'/>
@@ -53,7 +53,8 @@ export default{
     text-align: center;
 }  
 
-.prueba{
+.transparent{
     max-width: 100%;
+    background-color: transparent;
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-    <div class="card prueba">
+    <div class="card transparent">
         <!-- <div class="card-header">
         </div> -->
         <div class="card-content">
@@ -42,9 +42,6 @@ export default{
     background-color: #67236F;
     color: #fefefe;
 }
-.cant-cards{
-    background-color: #F9C4BC;
-}
 
 .title{
     margin-top: 5%;
@@ -64,7 +61,8 @@ export default{
     text-align: center;
 }  
 
-.prueba{
+.transparent{
     max-width: 100%;
+    background-color: transparent;
 }
 </style>

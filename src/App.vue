@@ -2,7 +2,7 @@
   <div id="app">
       <top-bar/>
       <div class="title">Make teamwork more productive</div>
-      <div class="d-flex">
+      <div class="d-flex is-justify-content-center">
         <router-view />
       </div>
       
